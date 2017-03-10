@@ -1,0 +1,2 @@
+import LC
+print X
